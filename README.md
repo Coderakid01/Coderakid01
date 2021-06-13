@@ -1,5 +1,14 @@
 
 # Hello There! 👋
+
+<center><img src="./poster1.gif"/></center>
+
+|||
+|---|---|
+|![lintang github stat](https://github-readme-stats.vercel.app/api?username=Coderakid01&show_icons=true&hide_border=true&theme=vue)|![lintang top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Akid01&layout=compact&hide_border=true&theme=vue)| 
+
+<br>
+
 # I'm Akid, Undergraduate Electronic Engineering Student
 
   <p align="center"><img src="https://github.com/Coderakid01/Medias/blob/main/poster1.jpg" width="900"></a></p>
@@ -27,13 +36,5 @@
   <li>Adafruit MPU6050</li>
   <li>Adafruit NeoPixel</li>
   </ol>
-  
-<center><img src="./poster1.gif"/></center>
-
-|||
-|---|---|
-|![lintang github stat](https://github-readme-stats.vercel.app/api?username=Coderakid01&show_icons=true&hide_border=true&theme=vue)|![lintang top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Akid01&layout=compact&hide_border=true&theme=vue)| 
-
-<br>
 
 <footer> #iotuntuksemua #producernation #generationiot </footer>
