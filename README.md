@@ -2,7 +2,7 @@
 
 |||
 |---|---|
-|![Akid github stat](https://github-readme-stats.vercel.app/api?username=Akid01&show_icons=true&hide_border=true&theme=vue)|![Akid top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Coderakid01&layout=compact&hide_border=true&theme=vue)| 
+|![Akid github stat](https://github-readme-stats.vercel.app/api?username=Coderakid01&show_icons=true&hide_border=true&theme=vue)|![Akid top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Akid01&layout=compact&hide_border=true&theme=vue)| 
 
 <br>
 
