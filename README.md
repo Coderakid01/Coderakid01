@@ -28,7 +28,7 @@
   <li>Adafruit NeoPixel</li>
   </ol>
   
-<center><img src="./trex.gif"/></center>
+<center><img src="./poster1.gif"/></center>
 
 |||
 |---|---|
