@@ -28,22 +28,12 @@
   <li>Adafruit NeoPixel</li>
   </ol>
   
-  <h3>Before you start, Please make sure that you have found the Receiver MAC Address of the Hibiscus Sense Receiver.<h3>
-  <h4>To communicate via ESP-NOW, you need to know the MAC Address of the Hibiscus Sense receiver. That’s how you know to which device you’ll send the information to. There's a folder named WSN_Get_MAC_Address_For_Receiver the Source code inside there is use to find the MAC Address of the Hisbiscus Sense Receiver. After you have upload the code please write the MAC Address acquired at any place for the next use, later you replace it with Receiver Code for the Hibiscus Sense Receiver.</h4>
-  
-  ## Circuit Diagram
+<center><img src="./trex.gif"/></center>
 
-<p align="center"><img src="https://github.com/Coderakid01/Medias/blob/main/poster2.jpg" width="900"></a></p>
-  
-  
-<h3>Credits for these awesome people for creating this awesome products and also my lecturers! 😎</h3>
+|||
+|---|---|
+|![lintang github stat](https://github-readme-stats.vercel.app/api?username=Coderakid01&show_icons=true&hide_border=true&theme=vue)|![lintang top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Akid01&layout=compact&hide_border=true&theme=vue)| 
 
-<ul>
-  <li> My Awesome Lecturers from KKTMPJ 😎 </li>
-  <li> MyDuino.com  (En Ariffin Zulkifli and the Team)</li>
-  <li> FAVORIOT (Dr Mazlan Abbas and the Team)</li>
-</ul>
-
-</br>
+<br>
 
 <footer> #iotuntuksemua #producernation #generationiot </footer>
