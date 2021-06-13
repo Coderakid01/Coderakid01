@@ -5,7 +5,7 @@
 
 |||
 |---|---|
-|![Akid github stat](https://github-readme-stats.vercel.app/api?username=Coderakid01&show_icons=true&hide_border=true&theme=vue)|![Akid top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Coderakid01&layout=compact&hide_border=true&theme=vue)| 
+|![Akid github stat](https://github-readme-stats.vercel.app/api?username=Coderakid01&show_icons=true&hide_border=true&theme=vue)|![Akid top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Coderakid01&layout=compact&show_border=true&theme=html)| 
 
 <br>
 
@@ -25,5 +25,7 @@
   <li>Basic PCB Design</li>
   <li>Electronics</li>
   </ol>
+  
+</br>
 
 <footer> #iotuntuksemua #producernation #generationiot </footer>
