@@ -23,7 +23,8 @@
   <li>Programming 💻</a></b></li>
   <li>Embedded System Programming 💻</a></b></li>
   <li>Microcontroller (Usually I play around with Arduino and Espressif based Microcontroller)</li>
-  <li>Basic PCB Design</li>
+  <li>PCB Design</li>
+  <li>Hardware Design For ESPRESSIF SoCs</li>  
   <li>Electronics</li>
   <li>Wireless Sensor Network and MESH (Espressif Controller Architecture Framework)</li>
   </ol>
