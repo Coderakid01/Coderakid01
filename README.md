@@ -11,8 +11,6 @@
 
 # I'm Akid, Undergraduate Electronic Engineering Student
 
-  <p align="center"><img src="./poster2.jpg" width="900"></a></p>
-  
   >A Teenager that has deep passion about Electronics and Computer Science, Suddenly fall in love with Internet of Things Projects. I actively studying and engaging various IoT Project either as a hobby or for educational purposes or work.
   
   </br>
